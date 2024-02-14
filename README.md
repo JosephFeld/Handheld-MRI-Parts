@@ -7,4 +7,5 @@ Clone this repository. Open KiCAD, go to Preferences -> Configure Paths..., and 
 ## Conventions
 When creating new symbols, include the footprint, datasheet, description, and keywords. 
 
+## Acknowledgement
 Thanks to Hans Gaensbauer for showing me how to set this up. This README is taken from his [analagous project](https://github.mit.edu/hgaens/BioMEMS-Parts)
